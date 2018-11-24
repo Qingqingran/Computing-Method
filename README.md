@@ -15,3 +15,7 @@
 ## 复化数值积分
 
 ![](./complex_numberical_intergration/complex_nmberical_intergation.png)
+
+## 非线性方程求根
+
+![](./nolinear_equation/nolinear_equation.png)
